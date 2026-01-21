@@ -33,15 +33,15 @@
 ---
 
 ## 🏆 Awards
-- 하계학술대학생–2025–068호 대학생 논문경진대회 동상
-- 2025 Hallym SW Week – 한림 AI 편곡 대회 금상
+- **하계학술대학생–2025–068호 대학생 논문경진대회 동상**
+- **2025 Hallym SW Week – 한림 AI 편곡 대회 금상**
 
 ---
 
 ## 📜 Certifications
-- Microsoft Office Specialist 2016 Master
-- 리눅스마스터 2급
-- Google Analytics Certification (GAC) 
+- **Microsoft Office Specialist 2016 Master**
+- **리눅스마스터 2급**
+- **Google Analytics Certification (GAC)** 
 ---
 
 ## 📌 Projects
@@ -51,8 +51,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjdsbcsk16&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdbscks16&layout=compact)
 
 ---
 
