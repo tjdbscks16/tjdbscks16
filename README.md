@@ -2,96 +2,65 @@
 <!--   GitHub Profile README  -->
 <!-- ========================= -->
 
-<!-- Header / Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:203A43&height=200&section=header&text=Backend%20%7C%20IoT%20Developer&fontColor=ffffff&fontSize=38)
 
 ---
 
-## 👋 이름
-- **Name:** 
-- **Introduction:** 
+## 👋 About Me
+- **Role:** Backend / IoT-oriented Developer / Project Manager 
+
 
 ---
 
 ## 🛠️ Tech Stack
+
 ### Languages
-![ ]()
-![ ]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdbscks16)](https://github.com/tjdbscks16/github-readme-stats)
 
 ### Frameworks / Libraries
-![ ]()
-![ ]()
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ### Tools / Platforms
-![ ]()
-![ ]()
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)
 
 ---
 
 ## 🧠 Problem Solving
-- **Solved.ac Tier:** 
-- **Solved.ac ID:** 
-
-<!-- Solved.ac Profile Card -->
-<!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_ID)](https://solved.ac/profile/YOUR_ID)
--->
+- **Main Language:** Python  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryon0316)](https://solved.ac/profile/ryon0316)
 
 ---
 
 ## 🏆 Awards
-- 
-- 
-- 
+- 하계학술대학생–2025–068호 대학생 논문경진대회 동상
+- 2025 Hallym SW Week – 한림 AI 편곡 대회 금상
 
 ---
 
 ## 📜 Certifications
-- 
-- 
-- 
-
+- Microsoft Office Specialist 2016 Master
+- 리눅스마스터 2급
+- Google Analytics Certification (GAC) 
 ---
 
 ## 📌 Projects
-### Project 1
-- **Description:** 
-- **Tech Stack:** 
-- **Role:** 
-- **Link:** 
 
-### Project 2
-- **Description:** 
-- **Tech Stack:** 
-- **Role:** 
-- **Link:** 
 
 ---
 
 ## 📊 GitHub Stats
-<!-- GitHub Stats Card -->
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true)
--->
 
-<!-- Most Used Languages -->
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact)
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)
 
 ---
 
 ## 📫 Contact
-- **Email:** 
-- **Blog:** 
-- **LinkedIn / 기타:** 
+- **Email:** ryon0316@naver.com  
+- **Blog:** https://blog.naver.com/ryon0316
+- **GitHub:** https://github.com/tjdbscks16  
 
 ---
 
-## 👀 Visitor
-<!--
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_GITHUB_ID)
--->
-
-<!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:2C5364&height=120&section=footer)
