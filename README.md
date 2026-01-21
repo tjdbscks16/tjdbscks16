@@ -2,9 +2,7 @@
 <!--   GitHub Profile README  -->
 <!-- ========================= -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:203A43&height=200&section=header&text=Project%20Manager%20/%20IoT%20Developer&fontColor=ffffff&fontSize=38)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:203A43&height=200&section=header&&fontColor=ffffff&fontSize=38)
 ### 👀Profile👀
  - __Name__ 🧑🏻‍💼
 > **서윤찬 (yunchan Seo)**
