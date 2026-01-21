@@ -4,7 +4,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:203A43&height=200&section=header&text=Project%20Manager%20/%20IoT%20Developer&fontColor=ffffff&fontSize=38)
 
----
 
 ### 👀Profile👀
  - __Name__ 🧑🏻‍💼
@@ -20,6 +19,9 @@
 > __한림대학교 소프트웨어학부 재학__
 > + 주전공 : 빅데이터
 > + 복수전공 : 스마트IoT
+### ✏️Grade✏️
+- `전체 평점` 4.33/4.5(25년 2학기 기준)<br>
+- `전공 평점` 4.33/4.5(25년 2학기 기준)<br>
 
 </br>
 
@@ -70,17 +72,11 @@
 ---
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjdbscks16&show_icons=true)
-
----
-
 ## 📫 Contact
 - **Email:** ryon0316@naver.com  
 - **Blog:** https://blog.naver.com/ryon0316
 - **GitHub:** https://github.com/tjdbscks16  
 
----
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:2C5364&height=120&section=footer)
