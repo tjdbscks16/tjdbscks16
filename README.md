@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:203A43&height=200&section=header&&fontColor=ffffff&fontSize=38)
 ### 👀Profile👀
  - __Name__ 🧑🏻‍💼
-> **서윤찬 (yunchan Seo)**
+> **서윤찬 (Yunchan Seo)**
  - __E-mail__ 📧
 > ryon0316@naver.com
  - __GitHub__ 🔗
