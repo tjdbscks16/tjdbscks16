@@ -72,7 +72,6 @@
 
 ## 📫 Contact
 - **Email:** ryon0316@naver.com  
-- **Blog:** https://blog.naver.com/ryon0316
 - **GitHub:** https://github.com/tjdbscks16  
 
 
