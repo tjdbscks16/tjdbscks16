@@ -11,7 +11,7 @@
  - __GitHub__ 🔗
 > [https://github.com/tjdbscks16]
  - __LAB__ 💻
-
+> [https://cic.hallym.ac.kr/]
 ### ✏️Grade✏️
 - `전체 평점` 4.33/4.5
 
